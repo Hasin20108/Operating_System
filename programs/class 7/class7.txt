@@ -1,0 +1,7 @@
+1. effect of wait() in child paernt relationship 
+2. check prarent of orphan process 
+3. use execlp() system call to run a separate exe file as child process
+4. check how multi-threading helps us do our tasks parallely 
+ 	a. global variable effect, local variable effect 
+ 	b. thread_race problem
+5. study about system call: exit(),wait(),open(),read()
